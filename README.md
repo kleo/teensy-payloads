@@ -28,8 +28,10 @@ Once Teensyduino is installed and working, place the PaensyLib folder inside you
 
 ---
 
+Distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENSE](https://github.com/kbeflo/teensy-payloads/blob/master/LICENSE) for more information.
+
 Note that this repo is for educational purposes only. No contributors, major or minor, are to fault for any actions done by this program.
 
 Kleo Bercero - [@kbeflo](https://twitter.com/kbeflo) - [My website](https://kerberos.me/)
 
-Distributed under the GNU GENERAL PUBLIC LICENSE v2. See LICENSE for more information.
+Support me on - [Patreon](https://www.patreon.com/kbeflo)
